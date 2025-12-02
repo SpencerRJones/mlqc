@@ -1,0 +1,17 @@
+name: mlqc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - xarray
+  - numpy
+  - jupyter
+  - matplotlib
+  - pandas
+  - netcdf4
+  - h5py
+  - pip
+  - pip:
+      - torch
+      - torchvision 
