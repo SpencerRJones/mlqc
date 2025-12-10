@@ -1,0 +1,20 @@
+[project]
+name = "mlqc"
+version = "0.0.1"
+description = "Machine-Learning Quality Control (MLQC) algorithm for passive microwave sensors."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+keywords = ["machine learning", "neural network", "quality control", "passive microwave", "remote sensing"]
+authors = [
+	{"name" = "Spencer R. Jones", "email" = "spencer.jones@colostate.edu"}
+]
+
+[project.urls]
+"Source" = https://github.com/SpencerRJones/mlqc
+
+[project.dependencies]
+
+[build-system]
+requires = ["setuptools","setuptools-scm"]
+build-backend = "setuptools.build_meta"
