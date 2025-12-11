@@ -1,0 +1,12 @@
+setup.py
+mlqc.egg-info/PKG-INFO
+mlqc.egg-info/SOURCES.txt
+mlqc.egg-info/dependency_links.txt
+mlqc.egg-info/top_level.txt
+src/__init__.py
+src/sensor_info.py
+src/surface.py
+src/utils/L1C.py
+src/utils/__init__.py
+src/utils/array_funcs.py
+src/utils/data2xarray.py
