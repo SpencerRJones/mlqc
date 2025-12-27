@@ -1,7 +1,7 @@
 # Machine Learning Quality Control (MLQC) algorithm for passive microwave sensors.
 This repository contains the example code for training and running the MLQC machine learning models for GMI.
 
-If this code has been helpful to your research, I would kindly ask that you please cite <add DOI upon publication>.
+If this code has been helpful to your research, I would kindly ask that you please cite (manuscript submitted for peer review, will add DOI upon publication).
 
 ## Getting Started
 These instructions will walk you through installing the repository 
@@ -85,6 +85,7 @@ src
     ├── __init__.py
     ├── L1C.py
 ```
+
 
 
 
