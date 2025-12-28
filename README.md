@@ -66,7 +66,7 @@ But this is simply for illustrative purposes, since a single orbit is obviously 
 
 The `train_GMI.ipynb` notebook is an example of carrying out the training loops, contained in `utils/training_funcs.py`.
 
-`src/` contains the functions and classes necessary for training running the model.
+`src/` contains the functions and classes necessary for training and running the model.
 ```
 src
 ├── classes
@@ -85,6 +85,7 @@ src
     ├── __init__.py
     ├── L1C.py
 ```
+
 
 
 
