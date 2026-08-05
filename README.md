@@ -1,7 +1,10 @@
 # Machine Learning Quality Control (MLQC) algorithm for passive microwave sensors.
 This repository contains the example code for training and running the MLQC machine learning models for GMI.
 
-(manuscript submitted for peer review, will add DOI upon publication).
+Reference:
+S. R. Jones, P. J. Brown and C. D. Kummerow, "Neural Network Model Tree Prediction for Passive Microwave Sensor Quality Control," in IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 5301912-5301912, 2026, Art no. 5301912, doi: 10.1109/TGRS.2026.3712052.
+keywords: {Modeling;Training;Image sensors;Surfaces;Algorithms;Machine learning;Pixel;Oceans;Quality control;Radiofrequency interference;Machine learning;passive microwave;quality control;radio frequency interference (RFI);radiometers;remote sensing},
+
 
 ## Getting Started
 These instructions will walk you through installing the repository 
